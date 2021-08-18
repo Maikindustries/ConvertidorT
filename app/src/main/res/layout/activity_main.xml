@@ -39,7 +39,7 @@
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
             android:ems="10"
-            android:inputType="numberDecimal" />
+            android:inputType="numberDecimal"/>
 
         <TextView
             android:id="@+id/textView3"
@@ -52,6 +52,7 @@
 
         <EditText
             android:id="@+id/etFahrenheit"
+
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="16dp"
